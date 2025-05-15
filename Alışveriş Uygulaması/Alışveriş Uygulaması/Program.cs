@@ -1,13 +1,4 @@
 ﻿
-// // Ödev -> 3 ürün fiyatı alan ve bunların toplam  değerini hesaplayan, ardından indirimsiz fiyat = .... şeklinde kullanıcı için konsola bir metot.
-
-//  -> Bir total fiyat alıp buna 20% indirim uygulayan bir metot. Ardından indirimli fiyatı ekrana yazdırıyor.
-
-
-// -> Bir total fiyat bir de indirim miktarı alıp ( 10 / 20 / 30 gibi ) ve bu belirtilen oranda indirim yapıp fiyatı ekrana yazdıran metot.
-
-
-
 using System.Reflection.Metadata.Ecma335;
 
 // Ürünlerin Listesini oluşturup fiyatlarini yazıyoruz. 
