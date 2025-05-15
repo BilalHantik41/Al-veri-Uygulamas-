@@ -3,7 +3,7 @@ using System.Reflection.Metadata.Ecma335;
 
 // Ürünlerin Listesini oluşturup fiyatlarini yazıyoruz. 
 var ürünListesi = new Dictionary<int, (string ürün, decimal fiyatı)>()
-{  //1      2       3
+{ // 1.    2.     3.   değişkenler sırasıyla int string ve decimal 
     {1,("Gömlek",1000m) },                                                  // Decimal olduklarını belirtmek için fiyatın sonuna m koyuyoruz.
     {2,("Pantolon",990m)},                                                  // 1. değişkenimiz ürünün sırasını tutuyor
     {3,("Çorap",300m)},                                                     // 2. değişken ürün ismini
