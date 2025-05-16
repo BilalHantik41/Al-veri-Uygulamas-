@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Alışveriş Uygulaması")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8b6b8bc89f9eaad2e7891f5f4b92b79b8cfcc95")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2e382eaef9d3aabaafddec9155f54fb82f88783")]
 [assembly: System.Reflection.AssemblyProductAttribute("Alışveriş Uygulaması")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Alışveriş Uygulaması")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

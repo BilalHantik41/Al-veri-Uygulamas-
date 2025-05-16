@@ -1,0 +1,15 @@
+C:\Users\Administrator\Patika+ C#\Alışveriş Uygulaması\Alışveriş Uygulaması\Alışveriş Uygulaması\bin\Debug\net8.0\Alışveriş Uygulaması.exe
+C:\Users\Administrator\Patika+ C#\Alışveriş Uygulaması\Alışveriş Uygulaması\Alışveriş Uygulaması\bin\Debug\net8.0\Alışveriş Uygulaması.deps.json
+C:\Users\Administrator\Patika+ C#\Alışveriş Uygulaması\Alışveriş Uygulaması\Alışveriş Uygulaması\bin\Debug\net8.0\Alışveriş Uygulaması.runtimeconfig.json
+C:\Users\Administrator\Patika+ C#\Alışveriş Uygulaması\Alışveriş Uygulaması\Alışveriş Uygulaması\bin\Debug\net8.0\Alışveriş Uygulaması.dll
+C:\Users\Administrator\Patika+ C#\Alışveriş Uygulaması\Alışveriş Uygulaması\Alışveriş Uygulaması\bin\Debug\net8.0\Alışveriş Uygulaması.pdb
+C:\Users\Administrator\Patika+ C#\Alışveriş Uygulaması\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\net8.0\Alışveriş Uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Patika+ C#\Alışveriş Uygulaması\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\net8.0\Alışveriş Uygulaması.AssemblyInfoInputs.cache
+C:\Users\Administrator\Patika+ C#\Alışveriş Uygulaması\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\net8.0\Alışveriş Uygulaması.AssemblyInfo.cs
+C:\Users\Administrator\Patika+ C#\Alışveriş Uygulaması\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\net8.0\Alışveriş Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Patika+ C#\Alışveriş Uygulaması\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\net8.0\Alışveriş Uygulaması.sourcelink.json
+C:\Users\Administrator\Patika+ C#\Alışveriş Uygulaması\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\net8.0\Alışveriş Uygulaması.dll
+C:\Users\Administrator\Patika+ C#\Alışveriş Uygulaması\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\net8.0\refint\Alışveriş Uygulaması.dll
+C:\Users\Administrator\Patika+ C#\Alışveriş Uygulaması\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\net8.0\Alışveriş Uygulaması.pdb
+C:\Users\Administrator\Patika+ C#\Alışveriş Uygulaması\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\net8.0\Alışveriş Uygulaması.genruntimeconfig.cache
+C:\Users\Administrator\Patika+ C#\Alışveriş Uygulaması\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\net8.0\ref\Alışveriş Uygulaması.dll
